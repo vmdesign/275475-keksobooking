@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Василий Минин](https://up.htmlacademy.ru/javascript/12/user/275475).
-* Наставник: `Неизвестно`.
+* Наставник: `Дмитрий Лялин`.
 
 ---
 
